@@ -1,0 +1,16 @@
+Actividad N°1
+
+Apellidos: Pangol Salazar 	
+Nombres: Juan Sebastián
+Asignatura: Programación Orientada a Objetos 
+NRC: 2355
+
+PROGRAMACIÓN  ORIENTADA  A  OBJETOS
+
+
+
+
+
+
+
+La programación orientada a objetos es muy amplia, de acuerdo con el video tratado, se podría decir que no existe una regla que se siga de tal manera secuencialmente ya que tenemos que tener en cuenta al momento programar  hay diversas formas o caminos para llegar a un resultado esperado siguiendo unos DATOS específicos y continuando con su FUNCIONALIDAD. Para mí la programación orientada a objetos es muy necesaria para la sociedad y para avanzar tecnológicamente a nivel mundial ya que se requiere de aplicaciones móviles, compra y venta a través de una tienda online, para todo eso es indispensable saber programar y más aún si se tiene en cuenta estos pasos como son objeto, atributo, método, clase e instancia.
